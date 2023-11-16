@@ -5,12 +5,17 @@ contributor:
     agent_name: Learned, A. G.
     gutenberg_agent_id: '56499'
     url: http://www.gutenberg.org/2009/agents/56499
+covers:
+- cover_type: archival
+  image_path: 72011-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, Adele E.
     gutenberg_agent_id: '56498'
     url: http://www.gutenberg.org/2009/agents/56498
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72011#Nobody-s-Rose-b-The-girlhood-of-Rose-Shannon
 gutenberg_issued: '2023-11-02'
 identifiers:
   gutenberg: '72011'
